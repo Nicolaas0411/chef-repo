@@ -1,0 +1,4 @@
+
+{ "run_list": ["recipe[apt::default]", "recipe[java::default]", "recipe[sonarqube::default]"] }
+
+
